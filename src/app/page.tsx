@@ -26,14 +26,14 @@ export default function Home() {
               exit={{ opacity: 0 }}
               transition={{ ease: "easeOut", duration: 7 }}
             >
-              <Link href="https://twitter.com/">
+              <Link href="https://twitter.com/JeoBongden">
                 <img
                   src="./x copy.png"
                   alt="test"
                   className="h-[80px] w-[80px] cursor-pointer"
                 />
               </Link>
-              <Link href="https://t.me/">
+              <Link href="https://t.me/JeoBongen">
                 <img
                   src="./Tg.png"
                   alt="Blood ritual"
@@ -79,14 +79,14 @@ export default function Home() {
               exit={{ opacity: 0 }}
               transition={{ ease: "easeOut", duration: 7 }}
             >
-              <Link href="https://twitter.com/">
+              <Link href="https://twitter.com/JeoBongden">
                 <img
                   src="./x copy.png"
                   alt="test"
                   className="h-[80px] w-[80px] cursor-pointer"
                 />
               </Link>
-              <Link href="https://t.me/">
+              <Link href="https://t.me/JeoBongen">
                 <img
                   src="./Tg.png"
                   alt="Blood ritual"
@@ -104,7 +104,6 @@ export default function Home() {
           </div>
         </div>
         <div className="absolute inset-0 overflow-hidden">
-          {/* Your video element */}
           <video
             src="./s1.mp4"
             autoPlay
