@@ -9,7 +9,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between">
       <section className="relative w-full h-screen flex justify-center items-center">
         <div className="overlay absolute inset-0 flex flex-col md:flex-row items-center justify-center gap-12 h-1/3">
-          <div className="mb-4 border-8 border-solid border-emerald-600">
+          <div className="border-8 border-solid border-emerald-600">
             <Image
               src="/JEO.jpg"
               alt="logo"
@@ -40,7 +40,7 @@ export default function Home() {
                   className="h-[80px] w-[80px] cursor-pointer"
                 />
               </Link>
-              <Link href="https://dexscreener.com/solana/">
+              <Link href="https://dexscreener.com/solana/7bWUXM8J5xNczJVKwsog1oXVvBTGypdNrno181t3JKK8">
                 <img
                   src="./Dex.png"
                   alt="test"
@@ -93,7 +93,7 @@ export default function Home() {
                   className="h-[80px] w-[80px] cursor-pointer"
                 />
               </Link>
-              <Link href="https://dexscreener.com/solana/">
+              <Link href="https://dexscreener.com/solana/7bWUXM8J5xNczJVKwsog1oXVvBTGypdNrno181t3JKK8">
                 <img
                   src="./Dex.png"
                   alt="test"
